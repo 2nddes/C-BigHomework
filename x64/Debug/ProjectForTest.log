@@ -1,0 +1,4 @@
+﻿  order.c
+D:\project\CProject\姚ProjectForTest (2)\ProjectForTest\order.c(77,4): warning C4013: “gets”未定义；假设外部返回 int
+D:\project\CProject\姚ProjectForTest (2)\ProjectForTest\order.c(982,8): warning C4101: “timeEnd”: 未引用的局部变量
+  ProjectForTest.vcxproj -> D:\project\CProject\姚ProjectForTest (2)\ProjectForTest\x64\Debug\ProjectForTest.exe
